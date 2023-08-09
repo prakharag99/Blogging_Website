@@ -1,0 +1,22 @@
+/* To remove all margins and paddings */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigation {
+    height: 74px;
+    background-color: red;
+}
+
+.content {
+    height: 95px;
+    background-color: blue;
+}
+
+.footer {
+    height: 50px;
+    background-color: blueviolet;
+}
+
